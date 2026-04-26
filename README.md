@@ -1,7 +1,7 @@
 # Swayam Nakte 👋
 
 <p align="center">
-  <i>Competitive programmer focused on rating growth and problem-solving depth</i>
+  <i>HII!</i>
 </p>
 
 ---
